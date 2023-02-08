@@ -14,6 +14,6 @@ https://reactrouter.com/en/main/start/tutorial => paginação com react
 https://apexcharts.com/ => gráficos no react
 
 ```batch
-npm install leaflet react-leaflet react-leaflet-draw leaflet-draw react-leaflet-easyprint prop-types react-router-dom
-npm install -D @types/leaflet @types/leaflet-draw apexcharts react-apexcharts
+npm install leaflet react-leaflet react-leaflet-draw leaflet-draw react-leaflet-easyprint prop-types react-router-dom ol proj4
+npm install -D @types/leaflet @types/leaflet-draw apexcharts react-apexcharts @types/proj4
 ```
